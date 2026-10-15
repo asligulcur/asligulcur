@@ -23,7 +23,7 @@ My work brings together executive business judgment, enterprise transformation e
 
 ## Background
 
-- MS, AI Systems Management (Highest Distinction) — Carnegie Mellon University
+- MS, AI Systems Management (Highest Distinction), 2026 — Carnegie Mellon University
 - MBA — Stanford University
 - BS, Computer Science and Mathematics — Carnegie Mellon University
 
