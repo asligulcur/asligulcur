@@ -24,6 +24,7 @@ At Salesforce, I joined the cross-functional GTM team incubating Agentforce befo
 ## Background
 
 - Experience: Salesforce · BP · Koç Holding (Tüpraş, Aygaz)
+- **Global experience:** career built in Boston, London, Istanbul and New York; cross-border deal, investor and reinsurance work across Europe, the Middle East, Latin America and the US; India market entry study.
 - MS, AI Systems Management (Highest Distinction), 2026 — Carnegie Mellon University
 - MBA — Stanford University
 - BS, Computer Science and Mathematics — Carnegie Mellon University
