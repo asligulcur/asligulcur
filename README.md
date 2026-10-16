@@ -25,12 +25,14 @@ My work brings together executive business judgment, enterprise transformation e
 
 ## Background
 
-- Experience: Salesforce · BP · Koç Holding (Tüpraş, Aygaz)
+- Experience: Salesforce (Senior Director) · BP · Koç Holding (Tüpraş, Aygaz)
 - **Global experience:** career built in Boston, London, Istanbul and New York; cross-border deal, investor and reinsurance work across Europe, the Middle East, Latin America and the US; India market entry study.
 - MS, AI Systems Management (Highest Distinction), 2026 — Carnegie Mellon University
 - MBA — Stanford University
 - BS, Computer Science and Mathematics — Carnegie Mellon University
 
 ## Connect
+
+Strategy, GTM and applied AI roles in New York and London.
 
 [Website](https://asligulcur.github.io/) · [LinkedIn](https://www.linkedin.com/in/asligulcur)
