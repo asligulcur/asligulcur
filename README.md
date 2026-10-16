@@ -2,7 +2,7 @@
 
 I am an enterprise AI transformation executive, strategist, and advisor focused on turning emerging technology into practical organizational capability.
 
-At Salesforce, I joined the cross-functional GTM team incubating Agentforce before the company's AI strategy was public, and co-led the AI value framework that 5,000+ field staff used at its launch. My work brings together executive business judgment, enterprise transformation experience, and hands-on applied AI systems expertise. At Carnegie Mellon (MS AI Systems Management, Highest Distinction, 2026), I built the AI systems below.
+At Salesforce, I joined the cross-functional GTM team incubating Agentforce before the company's AI strategy was public, and co-led the AI value framework that 5,000+ field staff used at its launch. My work brings together executive business judgment, enterprise transformation experience, and hands-on applied AI systems expertise. At Carnegie Mellon (MS AI Systems Management, Highest Distinction, 2026), I built the agentic, RAG and data systems below.
 
 ## Focus
 
