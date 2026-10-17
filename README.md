@@ -6,13 +6,7 @@ At Salesforce, I joined the cross-functional GTM team incubating Agentforce befo
 
 My work brings together executive business judgment, enterprise transformation experience, and hands-on applied AI systems expertise. At Carnegie Mellon (MS AI Systems Management, Highest Distinction, 2026), I put this into practice in the agentic, RAG and data projects below.
 
-## Focus
-
-- Enterprise AI transformation
-- Applied AI systems and evaluation
-- Organizational capability and change
-- Board and executive advisory
-- Responsible AI adoption
+**Focus:** AI strategy and GTM · applied AI and evaluation · enterprise AI adoption · responsible AI
 
 ## Selected work
 
