@@ -16,12 +16,14 @@ My work brings together executive business judgment, enterprise transformation e
 - [Humanitarian funding-gap monitor](https://github.com/asligulcur/humanitarian-funding-gap-monitor) — one of three winners (solo), Databricks × UN OCHA challenge at CMU; ranks humanitarian plans by unmet need against crisis severity.
 - [Workforce adaptation simulation](https://github.com/asligulcur/AI_Workforce_Odyssey_2026) — an agent-based model showing that equal access to training does not produce equal recovery; runs in the browser.
 - [Real-time monitoring pipeline](https://github.com/asligulcur/Real_TimeCryptoAIService_Nov_2025) — a streaming ML project exploring drift monitoring, observability, rollback, and model-lifecycle patterns.
+- AI safety jailbreak-athon (Gray Swan × CMU) — team of three; red-teamed safety guardrails on anonymized frontier LLMs and made the leaderboard.
 
 ## Background
 
 - **Career:** Salesforce (Senior Director) · BP · Koç Holding, Fortune Global 500 (Tüpraş, Aygaz)
 - **Global experience:** Boston, London, Istanbul and New York; cross-border work across Europe, the Middle East, the Americas and South Asia.
-- **Education:** Carnegie Mellon MS AI Systems Management (Highest Distinction, 2026) · Stanford MBA · Carnegie Mellon BS Computer Science & Mathematics
+- **Education:** Carnegie Mellon MS AI Systems Management (inaugural cohort, Highest Distinction, 2026) · Stanford MBA · Carnegie Mellon BS Computer Science & Mathematics
+- **Press:** [Forbes (2026)](https://www.forbes.com/sites/gelilabekele/2026/09/04/ai-deployment-and-the-forward-deployed-engineering-model/), quoted on forward-deployed engineering · [Forbes (2025)](https://www.forbes.com/sites/gelilabekele/2025/09/26/why-companies-will-soon-need-a-chief-ai-officer/), lead example on the Chief AI Officer role · [Carnegie Mellon film (2026)](https://www.youtube.com/watch?v=Fs_LpNj_zqY)
 
 ## Connect
 
