@@ -14,7 +14,7 @@ My work brings together executive business judgment, enterprise transformation e
 - [Competing AI strategy agents](https://github.com/asligulcur/StockTrader_Signals_Strategies_2026) — three LLM agents analyze the same market data and disagree; agreement is checked in code, and an evaluator agent explains why.
 - [Citation-grounded research portal](https://github.com/asligulcur/RAG-Research-Portal-Feb-2026) — RAG over 30 research papers; in the final GPT-4 evaluation runs, all 171 citations pointed to a real paper and a retrieved passage.
 - [Humanitarian funding-gap monitor](https://github.com/asligulcur/humanitarian-funding-gap-monitor) — one of three winners (solo), Databricks × UN OCHA challenge at CMU; ranks humanitarian plans by unmet need against crisis severity.
-- [Workforce adaptation simulation](https://github.com/asligulcur/AI_Workforce_Odyssey_2026) — an agent-based model showing that equal access to training does not produce equal recovery; runs in the browser.
+- [Workforce adaptation simulation](https://github.com/asligulcur/AI_Workforce_Odyssey_2026) — an agent-based model of emergent behavior: workers with equal access to training diverge into recovery or long-term unemployment. Under aggressive automation, 9 of 30 ended unemployed, versus 1 with stronger support. Runs in the browser.
 - [Real-time monitoring pipeline](https://github.com/asligulcur/Real_TimeCryptoAIService_Nov_2025) — a streaming ML project exploring drift monitoring, observability, rollback, and model-lifecycle patterns.
 - AI safety jailbreak-athon (Gray Swan × CMU) — team of three; red-teamed safety guardrails on anonymized frontier LLMs and made the leaderboard.
 
