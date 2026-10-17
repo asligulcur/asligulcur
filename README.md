@@ -25,6 +25,4 @@ My work brings together executive business judgment, enterprise transformation e
 
 ## Connect
 
-Strategy, GTM and applied AI roles in New York and London.
-
 [Website](https://asligulcur.github.io/) · [LinkedIn](https://www.linkedin.com/in/asligulcur)
