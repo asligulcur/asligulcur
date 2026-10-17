@@ -19,7 +19,7 @@ My work brings together executive business judgment, enterprise transformation e
 
 ## Background
 
-- **Career:** Salesforce (Senior Director) · BP · Koç Holding (Tüpraş, Aygaz)
+- **Career:** Salesforce (Senior Director) · BP · Koç Holding, Fortune Global 500 (Tüpraş, Aygaz)
 - **Global experience:** Boston, London, Istanbul and New York; cross-border work across Europe, the Middle East, the Americas and South Asia.
 - **Education:** Carnegie Mellon MS AI Systems Management (Highest Distinction, 2026) · Stanford MBA · Carnegie Mellon BS Computer Science & Mathematics
 
